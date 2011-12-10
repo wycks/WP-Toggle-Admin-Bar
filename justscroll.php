@@ -5,7 +5,7 @@ Plugin URI: http://www.wpsecure.net/
 Description: Toggles the WordPress Admin Bar from view
 Author: Wycks
 Author URI: http://wordpress.org/extend/plugins/profile/wycks
-Version: 1.0.0
+Version: 1.0.1
 License: GPL2
 */
 //

@@ -37,7 +37,9 @@ None yet
 
 == Changelog ==
 
-None yet
+1.0.1 
+- Updated style for 3.3 menu colors
+
 
 == Upgrade Notice ==
 
