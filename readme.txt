@@ -1,7 +1,6 @@
 === Plugin Name ===
 Contributors: wycks
 Donate link: http://wordpressfoundation.org
-<<<<<<< HEAD
 Tags: admin bar, toggle, hide admin bar, admin-bar
 Requires at least: 3.2
 Tested up to: 3.5.1
@@ -16,7 +15,7 @@ Tested up to: 3.2.1
 Stable tag: 3.2.1
 
 Toggles the admin bar from view by adding "Hide Me" to the Admin menu.
->>>>>>> 8da7b38be0dd1ff647bdebd9891b1188ad124bd0
+
 
 == Description ==
 
@@ -35,29 +34,19 @@ Notes :
 Use the Auto Installer.
 Or Upload the zip and hit install.
 
-
 == Frequently Asked Questions ==
 
 None yet
 
 == Screenshots ==
 
-<<<<<<< HEAD
 1. It's just a button.
-=======
-1. It's just button.
->>>>>>> 8da7b38be0dd1ff647bdebd9891b1188ad124bd0
 
 
 == Changelog ==
 
-<<<<<<< HEAD
-None yet
-=======
-1.0.1 
-- Updated style for 3.3 menu colors
+1.0.1 - Updated style for 3.3 menu colors
 
->>>>>>> 8da7b38be0dd1ff647bdebd9891b1188ad124bd0
 
 == Upgrade Notice ==
 
